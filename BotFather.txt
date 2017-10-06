@@ -1,0 +1,12 @@
+BotFather
+
+/newbot
+
+
+keePassXC
+
+
+composer --prefer-dist
+
+
+ls -la mostras os arquivos 
